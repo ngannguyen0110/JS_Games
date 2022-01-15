@@ -1,0 +1,21 @@
+.square {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: rgb(148, 46, 71);
+    background-color: bisque;
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width:618px;
+    height: 618px;
+}
+
+.mole {
+    background-image: url('peach.png');
+    background-size: cover;
+}
